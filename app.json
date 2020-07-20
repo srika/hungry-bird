@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Hungry Bird",
+    "slug": "hungry-bird",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "android": {
+      "package": "com.hungrybird.xxxx",
+      "versionCode": 1
+    },
+    "description": "Hungry Bird helps users find high-quality food at restaurants through search and discovery services in Australia. Download the Hungry Bird app and plan your next meal by browsing through restaurant photos, user ratings, and reviews."
+  }
+}
